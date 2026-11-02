@@ -16,4 +16,4 @@
 </body>
 </html>
 ```
-[Example web page](https://leoniealisa.github.io/PRA3006/))
+[Example web page](https://leoniealisa.github.io/PRA3006/)
