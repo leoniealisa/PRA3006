@@ -15,4 +15,4 @@
 </body>
 </html>
 
-[Link Text](file:///Users/leoniegohl/Library/Mobile%20Documents/com~apple~TextEdit/Documents/index.html)
+[Example web page](file:///Users/leoniegohl/Library/Mobile%20Documents/com~apple~TextEdit/Documents/index.html)
