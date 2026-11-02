@@ -1,6 +1,6 @@
 # PRA3006
 
-## HTML file: 
+## practising the code for HTML files: 
 
 <!DOCTYPE html>
 <html>
@@ -14,3 +14,5 @@
 
 </body>
 </html>
+
+file:///Users/leoniegohl/Library/Mobile%20Documents/com~apple~TextEdit/Documents/index.html 
