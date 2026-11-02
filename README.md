@@ -2,6 +2,7 @@
 
 ## practising the code for HTML files: 
 
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,5 +15,5 @@
 
 </body>
 </html>
-
+```
 [Example web page](file:///Users/leoniegohl/Library/Mobile%20Documents/com~apple~TextEdit/Documents/index.html)
