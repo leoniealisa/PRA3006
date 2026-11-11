@@ -20,3 +20,9 @@
 
 ## preliminary research question: 
 Which brain diseases share the same genes according to wikidata?
+
+## Notes on how to go on about this project
+- formulate the rigth SPARQL query that gives me all the defined brain diseases in wikidata (my chosen SPARQL endpoint)
+- when I have this I will filter a bit so I can have a chosen subset that I will focus on
+- then I will perform analysis to answer my research question on JavaScript
+- having the results I will work on visualising them and subsequently adding that to my website.
