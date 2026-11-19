@@ -58,7 +58,7 @@ async function main() {
 
     const node = g.append("g").selectAll("circle").data(nodeArray).join("circle")
     .attr("r", d => d.type === "disease" ? 8 : 5)
-    .attr("fill", d => d.type === "disease" ? "#e67e22" : d.count >= 2? "#c0392b" : "#999");
+    .attr("fill", d => d.type === "disease" ? "#282e62" : d.count >= 2? "#e1556f" : "#2bb1bd");
 
     node.append("title").text(d => d.label);
     
