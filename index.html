@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head> 
-<title> Hi, this is my first Web page </title>
+<meta charset="UTF-8">
+<title> Shared genes between neurological diseases</title>
+<style> 
+body { font-family: sans-serif; margin: 20px; }
+svg { border: 1px solid #ccc; width: 100%; height: 700px; }
+.legend span {margin-right: 20px; }
+</style>
 </head>
 <body> 
 
-<h1>Brain diseases and their common genes</h1>
-<p> Research question: Which brain diseases share the same genes according to wikidata? </p>
+<h1> Which neurological diseases share the same genes according to wikidata?</h1>
+<p class="legend">
+    <span style="color:#e67e22">● disease</span>
+    <span style="color:#c0392b">● gene shared by 2+ diseases</span>
+    <span style="color:#999">● gene linked to one disease</span>
+</p>
+
+<svg id="graph"></svg>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="index.js"></script>
 
 </body>
